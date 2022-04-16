@@ -1,4 +1,4 @@
-# Peforming-Analysis-Of-Meteorological-Data
+# Peforming Analysis Of Meteorological Data
 
 The hypothesis of this project states:
  "Has the Apparent Temperature and Humidity compared monthly across 10 years of data indicate an increase due to global warming?"
